@@ -2,6 +2,12 @@
 # Byte-Array-to-File
 Input a file using byte array, store it on local system.
 
+## SnapShots
+## 1
+![web](https://github.com/shinchancode/byte-array-to-file/blob/master/Imgs/1.png)
+## 2
+![web](https://github.com/shinchancode/byte-array-to-file/blob/master/Imgs/2.png)
+
 ## RESOURCES
 # Core JAVA, Collections
 <pre><center><a href="https://www.programiz.com/java-programming"><b>https://www.programiz.com/java-programming</b></a></center></pre>
@@ -17,14 +23,6 @@ Input a file using byte array, store it on local system.
 
 # API Basics
 <pre><center><a href="https://happycoding.io/tutorials/java-server/rest-api"><b>https://happycoding.io/tutorials/java-server/rest-api</b></a></center></pre>
-
-
-
-## SnapShots
-## 1
-![web](https://github.com/shinchancode/byte-array-to-file/blob/master/Imgs/1.png)
-## 2
-![web](https://github.com/shinchancode/byte-array-to-file/blob/master/Imgs/2.png)
 
 ### Connect with me:
 
