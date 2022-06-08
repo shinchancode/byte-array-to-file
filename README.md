@@ -1,4 +1,4 @@
-## ASSIGNMENT - 1
+## JAVA ASSIGNMENT - 1
 # Byte-Array-to-File
 Input a file using byte array, store it on local system.
 
